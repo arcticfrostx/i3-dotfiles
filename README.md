@@ -43,5 +43,5 @@ To apply the colors, run this command:
 
 wal -i '/home/YOURUSERNAME/i3-rice/background1.jpg'
 
-# If you have any questions, open an issue ticket, and I'll ignore it for like three or four days until responding.
+# If you have any questions, open an issue ticket, but I'll probably ignore it lol could you imagine responding to a ticket hahaha oh man that's funny
 Thank you for your cooperation.
