@@ -43,13 +43,5 @@ To apply the colors, run this command:
 
 wal -i '/home/YOURUSERNAME/i3-rice/background1.jpg'
 
-# "Where are the rest of your programs?"
-
-I'm too lazy to install polybar, so no status bar for you. Also it's bloat and that's not a good look.
-
-No login manager, I have my system autologin and startx immediately.
-
-I use dmenu to launch programs, and I don't have a file manager.
-
 # If you have any questions, open an issue ticket, and I'll ignore it for like three or four days until responding.
 Thank you for your cooperation.
