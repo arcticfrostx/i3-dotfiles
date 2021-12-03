@@ -17,8 +17,6 @@ I have tested them on Arch Linux and Artix Linux, but they should work on any di
 
 - Pywal 
 
-- Nitrogen
-
 - i3-gaps
 
 # Installation
@@ -29,19 +27,9 @@ Copy the files to the locations of the config files (i3 config to ~/.config/i3/c
 # Configuring Pywal
 Pywal automatically sets the colors on the terminal based off of any image that you give it.
 
-To get pywal working, add 'wal -R" to your ~/.xinitrc.
+I've now added the code to run pywal to my ~/.bashrc, and ~/.xinitrc, therefore don't go to me whining that it doesn't work cause you're fucking illiterate
 
-You'll also want to add these lines to your ~/.bashrc so the colors will be applied to new windows:
+wal -i '/home/YOURUSERNAME/i3-dotfiles/background1.jpg'
 
-(cat ~/.cache/wal/sequences &)
-
-cat ~/.cache/wal/sequences
-
-source ~/.cache/wal/colors-tty.sh
-
-To apply the colors, run this command:
-
-wal -i '/home/YOURUSERNAME/i3-rice/background1.jpg'
-
-# If you have any questions, open an issue ticket, but I'll probably ignore it lol could you imagine responding to a ticket hahaha oh man that's funny
+# If you have any questions, open an issue ticket, but let's be real, I'll probably ignore it 
 Thank you for your cooperation.
